@@ -1,11 +1,6 @@
 # Carbon Capture Technoeconomic Analysis (System LCOE vs. Renewables Share (India, 2023 base))
 Models the LCOE for India's power system % as the share of renewables increases, comparing a baseline coal-only % system with various CCS scenarios.
 
-# Edit History (pre-github)
-Rev 1: 12/15/25 Ariel Mobius
-
-Initial commit: 12/10/25 Emma Rutherford
-
 # Outputs
 FIGURE 1:
   • No CCS vs Coal+CCS (low/mid/high)
@@ -23,3 +18,8 @@ FIGURE 2:
       - Composite "ALL reductions" (configurable via toggles)
 
 All editable inputs and toggles are at the top.
+
+# Edit History
+Rev 1: 12/15/25 Ariel Mobius
+
+Initial commit: 12/10/25 Emma Rutherford

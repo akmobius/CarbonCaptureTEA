@@ -2,7 +2,8 @@
 Models the LCOE for India's power system % as the share of renewables increases, comparing a baseline coal-only % system with various CCS scenarios.
 
 # Edit History (pre-github)
-Initial commit: 12/10/25 Emma Rutherford, Rev 1: 12/15/25 Ariel Mobius
+Rev 1: 12/15/25 Ariel Mobius
+Initial commit: 12/10/25 Emma Rutherford
 
 # Outputs
 FIGURE 1:

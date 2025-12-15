@@ -3,6 +3,7 @@ Models the LCOE for India's power system % as the share of renewables increases,
 
 # Edit History (pre-github)
 Rev 1: 12/15/25 Ariel Mobius
+
 Initial commit: 12/10/25 Emma Rutherford
 
 # Outputs

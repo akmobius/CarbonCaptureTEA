@@ -11,4 +11,4 @@ All editable inputs and toggles are at the top.
 # Edit History
 Rev 1: 12/15/25 Ariel Mobius
 
-Initial commit: 12/10/25 Emma Rutherford, Ariel Mobius
+Initial commit: 12/10/25 Emma Rutherford, A Mobius

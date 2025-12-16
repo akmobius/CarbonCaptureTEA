@@ -8,7 +8,7 @@ Crossover Point: Demonstrates the RE share at which the Coal + CCS system LCOE f
 
 FIGURE 2: Focuses on the Mid-Cost CCS scenario and applies specific economic adjustments to model the impact of different policy and valuation choices. Avoided Externalities: Plots the LCOE reduction gained by monetizing the avoided damages from coal pollution, specifically: Health and Mortality costs, Crop-Loss damages. 
 
-Carbon Credit Revenue: Plots the LCOE reduction achieved by incorporating a revenue stream from selling captured $\text{CO}_2$ (carbon credits) at low, mid, and high price points (₹/t$\text{CO}_2$).Co-Benefit Adjustment: Includes an adjustment for the capital cost overlap between CCS and required $\text{SO}_x$/$\text{NO}_x$ scrubbers, reducing the effective CCS capital cost.
+Carbon Credit Revenue: Plots the LCOE reduction achieved by incorporating a revenue stream from selling captured CO2 (carbon credits) at low, mid, and high price points rupees/ton CO2.Co-Benefit Adjustment: Includes an adjustment for the capital cost overlap between CCS and required SOX and NOx scrubbers, reducing the effective CCS capital cost.
 
 Composite Scenario: Allows for the toggling and visualization of a custom scenario combining selected externalities and credit revenues.
 
